@@ -1,0 +1,20 @@
+16:52:36.567
+pod2
+  File: /workdir/share_point/example.txt
+  Size: 60        	Blocks: 8          IO Block: 1048576 regular file
+Device: bbh/187d	Inode: 17013925968265106638  Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/ UNKNOWN)   Gid: ( 1000/ UNKNOWN)
+Access: 2023-01-17 16:52:36.537000000 +0000
+Modify: 2023-01-17 16:52:36.544000000 +0000
+Change: 2023-01-17 16:52:36.544000000 +0000
+ Birth: -
+16:52:37.571
+pod2
+  File: /workdir/share_point/example.txt
+  Size: 60        	Blocks: 8          IO Block: 1048576 regular file
+Device: bbh/187d	Inode: 17013925968265106638  Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/ UNKNOWN)   Gid: ( 1000/ UNKNOWN)
+Access: 2023-01-17 16:52:36.537000000 +0000
+Modify: 2023-01-17 16:52:36.544000000 +0000
+Change: 2023-01-17 16:52:36.544000000 +0000
+ Birth: -

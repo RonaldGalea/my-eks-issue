@@ -1,0 +1,110 @@
+16:52:27.601
+pod1
+stat: cannot statx '/workdir/share_point/example.txt': No such file or directory
+16:52:28.607
+pod1
+stat: cannot statx '/workdir/share_point/example.txt': No such file or directory
+16:52:29.610
+pod1
+stat: cannot statx '/workdir/share_point/example.txt': No such file or directory
+16:52:30.613
+pod1
+stat: cannot statx '/workdir/share_point/example.txt': No such file or directory
+16:52:31.617
+pod1
+stat: cannot statx '/workdir/share_point/example.txt': No such file or directory
+16:52:32.620
+pod1
+stat: cannot statx '/workdir/share_point/example.txt': No such file or directory
+16:52:33.624
+pod1
+stat: cannot statx '/workdir/share_point/example.txt': No such file or directory
+16:52:34.627
+pod1
+stat: cannot statx '/workdir/share_point/example.txt': No such file or directory
+16:52:35.630
+pod1
+stat: cannot statx '/workdir/share_point/example.txt': No such file or directory
+16:52:36.633
+pod1
+stat: cannot statx '/workdir/share_point/example.txt': No such file or directory
+16:52:37.636
+pod1
+stat: cannot statx '/workdir/share_point/example.txt': No such file or directory
+16:52:38.639
+pod1
+stat: cannot statx '/workdir/share_point/example.txt': No such file or directory
+16:52:39.642
+pod1
+stat: cannot statx '/workdir/share_point/example.txt': No such file or directory
+16:52:40.644
+pod1
+stat: cannot statx '/workdir/share_point/example.txt': No such file or directory
+16:52:41.647
+pod1
+stat: cannot statx '/workdir/share_point/example.txt': No such file or directory
+16:52:42.650
+pod1
+stat: cannot statx '/workdir/share_point/example.txt': No such file or directory
+16:52:43.653
+pod1
+stat: cannot statx '/workdir/share_point/example.txt': No such file or directory
+16:52:44.656
+pod1
+stat: cannot statx '/workdir/share_point/example.txt': No such file or directory
+16:52:45.659
+pod1
+stat: cannot statx '/workdir/share_point/example.txt': No such file or directory
+16:52:46.662
+pod1
+stat: cannot statx '/workdir/share_point/example.txt': No such file or directory
+16:52:47.665
+pod1
+stat: cannot statx '/workdir/share_point/example.txt': No such file or directory
+16:52:48.668
+pod1
+stat: cannot statx '/workdir/share_point/example.txt': No such file or directory
+16:52:49.671
+pod1
+stat: cannot statx '/workdir/share_point/example.txt': No such file or directory
+16:52:50.674
+pod1
+stat: cannot statx '/workdir/share_point/example.txt': No such file or directory
+16:52:51.677
+pod1
+stat: cannot statx '/workdir/share_point/example.txt': No such file or directory
+16:52:52.680
+pod1
+stat: cannot statx '/workdir/share_point/example.txt': No such file or directory
+16:52:53.683
+pod1
+stat: cannot statx '/workdir/share_point/example.txt': No such file or directory
+16:52:54.686
+pod1
+stat: cannot statx '/workdir/share_point/example.txt': No such file or directory
+16:52:55.688
+pod1
+stat: cannot statx '/workdir/share_point/example.txt': No such file or directory
+16:52:56.691
+pod1
+stat: cannot statx '/workdir/share_point/example.txt': No such file or directory
+16:52:57.694
+pod1
+  File: /workdir/share_point/example.txt
+  Size: 60        	Blocks: 8          IO Block: 1048576 regular file
+Device: a7h/167d	Inode: 17013925968265106638  Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/ UNKNOWN)   Gid: ( 1000/ UNKNOWN)
+Access: 2023-01-17 16:52:36.544000000 +0000
+Modify: 2023-01-17 16:52:36.544000000 +0000
+Change: 2023-01-17 16:52:36.544000000 +0000
+ Birth: -
+16:52:58.700
+pod1
+  File: /workdir/share_point/example.txt
+  Size: 60        	Blocks: 8          IO Block: 1048576 regular file
+Device: a7h/167d	Inode: 17013925968265106638  Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/ UNKNOWN)   Gid: ( 1000/ UNKNOWN)
+Access: 2023-01-17 16:52:36.544000000 +0000
+Modify: 2023-01-17 16:52:36.544000000 +0000
+Change: 2023-01-17 16:52:36.544000000 +0000
+ Birth: -

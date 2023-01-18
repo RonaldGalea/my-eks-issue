@@ -1,0 +1,10 @@
+root@pod1:/# date +\"%T.%3N\" && stat /workdir/share_point/manual_test.txt
+"17:01:54.296"
+  File: /workdir/share_point/manual_test.txt
+  Size: 12        	Blocks: 8          IO Block: 1048576 regular file
+Device: a7h/167d	Inode: 13840227617430640743  Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/ UNKNOWN)   Gid: ( 1000/ UNKNOWN)
+Access: 2023-01-17 17:01:53.564000000 +0000
+Modify: 2023-01-17 17:01:53.564000000 +0000
+Change: 2023-01-17 17:01:53.564000000 +0000
+ Birth: -

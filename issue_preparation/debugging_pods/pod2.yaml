@@ -1,0 +1,19 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod2
+spec:
+  containers:
+  - image: ubuntu:22.04
+    name: pod2
+    command: ["/bin/bash", "-c"]
+    args: ["echo \"When is this data visible for the first time in other pods?\" > /workdir/share_point/example.txt &&
+    while true; do { date +\"%T.%3N\"; hostname; stat /workdir/share_point/example.txt; } >> pod2.log 2>&1; sleep 1; done && 
+    tail -f /dev/null"]
+    volumeMounts:
+      - name: persistent-storage
+        mountPath: /workdir/share_point
+  volumes:
+    - name: persistent-storage
+      persistentVolumeClaim:
+        claimName: efs-claim
