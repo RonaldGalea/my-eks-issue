@@ -2,7 +2,7 @@ Hello!
 
 # Short summary of context and issue
 
-I am using EFS to mount shared storage (ReadWriteMany [access-mode](https://kubernetes.io/docs/concepts/storage/persistent-volumes/#access-modes)) into EKS pods. The issue I'm having is that write updates propagate with big delays across pods: one pod may successfully write a file to the shared directory, but other pods see it some 10-60 seconds later (this delay varies across experiments seemingly at random)
+I am using EFS to mount a PV (ReadWriteMany [access-mode](https://kubernetes.io/docs/concepts/storage/persistent-volumes/#access-modes)) via a PVC into EKS pods. The issue I'm having is that write updates propagate with big delays across pods: one pod may successfully write a file to the shared directory, but other pods see it some 10-60 seconds later (this delay varies across experiments seemingly at random).
 
 ## Experiment & Concrete results
 
